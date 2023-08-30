@@ -26,7 +26,7 @@
 <br/>
 
 <p align="center">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=burakalemun&column=7&margin-h=15&no-frame=true&theme=juicyfresh" >
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=burakalemun&column=7&margin-h=15&no-frame=true&theme=juicyfresh"/>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakalemun&theme=dark&hide_border=true"/>
