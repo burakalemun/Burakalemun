@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @burakalemun
+- Hello, I'm @burakalemun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 - 👀 I'm interested in Full-Stack web development and mobile applications.
 - 🧰 During my high school years, I learned image processing using Python with FRC, and I learned robot coding using Java. Aside from that, I've created websites and developed small applications.
 - 🌱 Currently, I'm working on web and mobile applications to learn and improve my skills.
