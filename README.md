@@ -3,8 +3,7 @@
 - 🧰 During my high school years, I learned image processing using Python with FRC, and I learned robot coding using Java. Aside from that, I've created websites and developed small applications.
 - 🌱 Currently, I'm working on web and mobile applications to learn and improve my skills.
 - 📫 I'm currently studying Computer Programming (Associate's Degree) at Medipol University in Istanbul, Turkey.
-- 📞 If you'd like to get in touch with me ---> You can reach me on Discord as burakalemun
-
+- 📞 If you'd like to get in touch with me ---> You can reach me on Discord as burakalemun or <a href="https://burakalemun.github.io/burakkaya/"> My Web Site </a>.
 <div align="center">
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/burakalemun?label=Followers&style=social">
   <img src="https://img.shields.io/github/stars/burakalemun?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
